@@ -17,3 +17,7 @@
 # Use `binary` to make sure certain files are never auto-detected as text.
 #
 #*.png binary
+
+# Directory symlinks.
+#
+libharfbuzz/harfbuzz/OT symlink=dir
