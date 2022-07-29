@@ -1,7 +1,7 @@
 : 1
 name: libharfbuzz
 project: harfbuzz
-version: 4.2.0-a.0.z
+version: 4.2.0
 summary: HarfBuzz text shaping engine C/C++ libraries
 
 # This license covers HarfBuzz itself.
