@@ -1,0 +1,7 @@
+: 1
+name: libharfbuzz
+version: 4.2.0
+project: harfbuzz
+summary: HarfBuzz text shaping engine C/C++ libraries
+license: MIT-Modern-Variant
+license: MIT
